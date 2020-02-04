@@ -5,4 +5,4 @@ This is an exercise of setting an online repository that was teached at the PhD 
 
 ![Statistics explained](alaska_ice_melt.gif)
 
-Image by Max Pixel.
+GIF by Moris Zahtila, 2019.

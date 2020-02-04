@@ -50,9 +50,9 @@ Conclusion: use gif to drag users' (or readers') attention, and interactivity to
 #### Telling a story with the article:
 
 1.	Plot: supporting decision making by visual perception of numbers.
-2.	Main character: social media data, or even more specific, social-media-related numbers.
-3.	
-4.	Solution: approach visualization of numbers that relate to a specific location in a novel way, which can be intuitively understood.
+2.	Main character: social media data, or even more specific, socia media data in numbers.
+3.	Research gap: (1) visual analytics tools mostly do not approach visual comparison of data as a separate user task, but indirectly (2) scientific visualizations are often so complex that they require a training for using and understanding them.
+4.	Solution: approach visualization of numbers that relate to a specific location in a novel way, which can be intuitively understood, and compared.
 5.	Results: should imply intuitive perception of statistics, which can be challenging in tabular representations.
 
 
