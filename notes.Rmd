@@ -1,16 +1,16 @@
 ---
 title: "AGILE PhD School Report: Key Takeaways"
-author: "Moris Zahtila"
-date: "28/11/2019"
+author:
+  - name: Moris Zahtila
+    affiliation: Dresden Technical University, Germany
+    email: moris.zahtila@tu-dresden.de
+    orcid: 0000-0000-0000-0000
+abstract: |
+   A good way of documenting the research is by depositing the related information in an online repository.
 output:
-  html_document: default
-  pdf_document: default
-  word_document: default
+  ceurticles::twocolpceurws_article
+bibliography: samplebib.bib
 ---
-
-```{r setup, include=FALSE}
-knitr::opts_chunk$set(echo = TRUE)
-```
 
 
 ## Visualization
