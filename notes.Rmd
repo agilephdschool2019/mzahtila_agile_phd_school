@@ -2,9 +2,8 @@
 title: "AGILE PhD School Report: Key Takeaways"
 author:
   - name: Moris Zahtila
-    affiliation: Dresden Technical University, Germany
+    affiliation: Dresden University of Technology, Germany
     email: moris.zahtila@tu-dresden.de
-    orcid: 0000-0000-0000-0000
 abstract: |
    A good way of documenting the research is by depositing the related information in an online repository.
 output:
@@ -62,13 +61,13 @@ E.g., this gif _Alaska Ice Melting_ visually shows historical ice level changes 
 
 - Consider Brown’s 8 questions. 
 
-## Telling a story with the article:
+## Telling a story with the article (applied to my current research)
 
 1.	Plot: supporting decision making by visual perception of numbers.
 
 2.	Main character: social media data, or even more specific, socia media data in numbers.
 
-3.	Research gap: (1) visual analytics tools mostly do not approach visual comparison of data as a separate user task, but indirectly (2) scientific visualizations are often so complex that they require a training for using and understanding them.
+3.	Research gap: (1) visual analytics tools mostly do not approach visual comparison of data as a separate user task, but indirectly (2) scientific visualizations are often very complex, and require training for using and understanding them.
 
 4.	Solution: approach visualization of numbers that relate to a specific location in a novel way, which can be intuitively understood, and compared.
 
@@ -76,7 +75,7 @@ E.g., this gif _Alaska Ice Melting_ visually shows historical ice level changes 
 
 ## Structuring the paper/research according to Brown’s 8 questions:
 
-1.	Frank Ostermann (social media), Manuel Lima (visualization, professional, _Visual Complexity_), Michael Lee Gleicher (visualization, academic, _Task-Driven Comparison of Topic Models_ )
+1.	Frank Ostermann (social media, academic), Manuel Lima (visualization, professional, _Visual Complexity_), Michael Lee Gleicher (visualization, academic, _Task-Driven Comparison of Topic Models_ )
 
 2.	I have thought of ways of how to visually represent geotagged numbers as gifs, namely from social media posts, in order to use them as additional explanatory element on a map. **I will consider the usefulness of GIS approach for processing the data and generating the first visualization ideas.**
 
